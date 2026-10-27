@@ -20,16 +20,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💼 Full Stack Java Developer with 3+ years of experience.
-- ☕ Backend development using Java, Spring Boot, and REST APIs.
-- 🧩 Building microservices and event-driven applications with Apache Kafka.
-- 🎨 Frontend development using Angular, React, and TypeScript.
-- 🤖 Exploring AI integrations with Spring AI, LangChain4j, and LLM APIs.
-- ☁️ Working with AWS, Docker, Kubernetes, and CI/CD technologies.
-- 🧪 Focused on clean code, automated testing, and reliable applications.
-- 🌱 Continuously learning and improving my software engineering skills.
+-  Full Stack Java Developer with 3+ years of experience.
+-  Backend development using Java, Spring Boot, and REST APIs.
+-  Building microservices and event-driven applications with Apache Kafka.
+-  Frontend development using Angular, React, and TypeScript.
+-  Exploring AI integrations with Spring AI, LangChain4j, and LLM APIs.
+-  Working with AWS, Docker, Kubernetes, and CI/CD technologies.
+-  Focused on clean code, automated testing, and reliable applications.
+-  Continuously learning and improving my software engineering skills.
 
   ## 🎓 Education
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -78,7 +78,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Product Acquiring E-Commerce System
 **Tech Stack:** React.js, Java, Spring Boot, REST APIs
@@ -104,7 +104,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Full Stack Java Developer
 **May 2025 – Present**
