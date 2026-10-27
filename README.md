@@ -31,6 +31,16 @@
 - 🧪 Focused on clean code, automated testing, and reliable applications.
 - 🌱 Continuously learning and improving my software engineering skills.
 
+  ## 🎓 Education
+
+- **Master of Science in Applied Computer Science**  
+  Northwest Missouri State University | 2022–2023
+
+- **Bachelor of Technology in Electronics & Communication Engineering**  
+  GITAM University | 2016–2020
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -113,32 +123,6 @@
 - Implemented secure access and data protection features.
 
 ---
-
-## 🎓 Education
-
-- **Master of Science in Applied Computer Science**  
-  Northwest Missouri State University | 2022–2023
-
-- **Bachelor of Technology in Electronics & Communication Engineering**  
-  GITAM University | 2016–2020
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sravansuddakanti&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravansuddakanti&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used programming languages"
-  />
-</p>
 
 ## 🤝 Let's Connect
 
